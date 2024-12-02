@@ -1,0 +1,10 @@
+C:\D\Faks\IV\CS322\DZ05\Z1\Z1\bin\Debug\Z1.exe.config
+C:\D\Faks\IV\CS322\DZ05\Z1\Z1\bin\Debug\Z1.exe
+C:\D\Faks\IV\CS322\DZ05\Z1\Z1\bin\Debug\Z1.pdb
+C:\D\Faks\IV\CS322\DZ05\Z1\Z1\obj\Debug\Z1.csproj.AssemblyReference.cache
+C:\D\Faks\IV\CS322\DZ05\Z1\Z1\obj\Debug\Z1.Form1.resources
+C:\D\Faks\IV\CS322\DZ05\Z1\Z1\obj\Debug\Z1.Properties.Resources.resources
+C:\D\Faks\IV\CS322\DZ05\Z1\Z1\obj\Debug\Z1.csproj.GenerateResource.cache
+C:\D\Faks\IV\CS322\DZ05\Z1\Z1\obj\Debug\Z1.csproj.CoreCompileInputs.cache
+C:\D\Faks\IV\CS322\DZ05\Z1\Z1\obj\Debug\Z1.exe
+C:\D\Faks\IV\CS322\DZ05\Z1\Z1\obj\Debug\Z1.pdb
