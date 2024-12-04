@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\D\\Faks\\IV\\CS322\\DZ07-DZ08\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{343C9FAC-E2D6-4384-AA69-DDA6FCFF720B}|WebApplication1\\WebApplication1.csproj|c:\\d\\faks\\iv\\cs322\\dz07-dz08\\webapplication1\\webapplication1\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{343C9FAC-E2D6-4384-AA69-DDA6FCFF720B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343C9FAC-E2D6-4384-AA69-DDA6FCFF720B}|WebApplication1\\WebApplication1.csproj|c:\\d\\faks\\iv\\cs322\\dz07-dz08\\webapplication1\\webapplication1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{343C9FAC-E2D6-4384-AA69-DDA6FCFF720B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343C9FAC-E2D6-4384-AA69-DDA6FCFF720B}|WebApplication1\\WebApplication1.csproj|c:\\d\\faks\\iv\\cs322\\dz07-dz08\\webapplication1\\webapplication1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{343C9FAC-E2D6-4384-AA69-DDA6FCFF720B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.aspx",
+              "DocumentMoniker": "C:\\D\\Faks\\IV\\CS322\\DZ07-DZ08\\WebApplication1\\WebApplication1\\About.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\About.aspx",
+              "ToolTip": "C:\\D\\Faks\\IV\\CS322\\DZ07-DZ08\\WebApplication1\\WebApplication1\\About.aspx",
+              "RelativeToolTip": "WebApplication1\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-04T16:26:10.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\D\\Faks\\IV\\CS322\\DZ07-DZ08\\WebApplication1\\WebApplication1\\Default.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Default.aspx",
+              "ToolTip": "C:\\D\\Faks\\IV\\CS322\\DZ07-DZ08\\WebApplication1\\WebApplication1\\Default.aspx",
+              "RelativeToolTip": "WebApplication1\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T14:10:20Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\D\\Faks\\IV\\CS322\\DZ07-DZ08\\WebApplication1\\WebApplication1\\Startup.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Startup.cs",
+              "ToolTip": "C:\\D\\Faks\\IV\\CS322\\DZ07-DZ08\\WebApplication1\\WebApplication1\\Startup.cs",
+              "RelativeToolTip": "WebApplication1\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:10:17.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

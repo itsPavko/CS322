@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\D\\Faks\\IV\\CS322\\DZ05\\Z1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D07CB9FD-D12D-45CD-8B22-072645BAC75F}|Z1\\Z1.csproj|c:\\d\\faks\\iv\\cs322\\dz05\\z1\\z1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D07CB9FD-D12D-45CD-8B22-072645BAC75F}|Z1\\Z1.csproj|solutionrelative:z1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D07CB9FD-D12D-45CD-8B22-072645BAC75F}|Z1\\Z1.csproj|C:\\D\\Faks\\IV\\CS322\\DZ05\\Z1\\z1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07CB9FD-D12D-45CD-8B22-072645BAC75F}|Z1\\Z1.csproj|solutionrelative:z1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D07CB9FD-D12D-45CD-8B22-072645BAC75F}|Z1\\Z1.csproj|c:\\d\\faks\\iv\\cs322\\dz05\\z1\\z1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D07CB9FD-D12D-45CD-8B22-072645BAC75F}|Z1\\Z1.csproj|solutionrelative:z1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D07CB9FD-D12D-45CD-8B22-072645BAC75F}|Z1\\Z1.csproj|c:\\d\\faks\\iv\\cs322\\dz05\\z1\\z1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D07CB9FD-D12D-45CD-8B22-072645BAC75F}|Z1\\Z1.csproj|solutionrelative:z1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\D\\Prog\\Unity\\Projects\\HMI\\Assets\\ArduinoHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -21,7 +21,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -33,25 +33,24 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Prog\\Unity\\Projects\\HMI\\Assets\\ArduinoHandler.cs",
               "ViewState": "AQIAAFcAAAAAAAAAAAAAAIMAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T12:41:58.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T12:41:58.501Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\D\\Faks\\IV\\CS322\\DZ05\\Z1\\Z1\\Form1.cs",
               "RelativeDocumentMoniker": "Z1\\Form1.cs",
               "ToolTip": "C:\\D\\Faks\\IV\\CS322\\DZ05\\Z1\\Z1\\Form1.cs",
               "RelativeToolTip": "Z1\\Form1.cs",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAMwE8AAABQAAAA",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAiwE8AAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T12:40:58.801Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\D\\Faks\\IV\\CS322\\DZ05\\Z1\\Z1\\Form1.cs",
               "RelativeDocumentMoniker": "Z1\\Form1.cs",
