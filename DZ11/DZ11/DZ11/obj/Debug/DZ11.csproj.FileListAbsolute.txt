@@ -1,0 +1,10 @@
+C:\D\Faks\IV\CS322\DZ11\DZ11\DZ11\bin\Debug\DZ11.exe.config
+C:\D\Faks\IV\CS322\DZ11\DZ11\DZ11\bin\Debug\DZ11.exe
+C:\D\Faks\IV\CS322\DZ11\DZ11\DZ11\bin\Debug\DZ11.pdb
+C:\D\Faks\IV\CS322\DZ11\DZ11\DZ11\obj\Debug\DZ11.csproj.AssemblyReference.cache
+C:\D\Faks\IV\CS322\DZ11\DZ11\DZ11\obj\Debug\DZ11.Kurs.resources
+C:\D\Faks\IV\CS322\DZ11\DZ11\DZ11\obj\Debug\DZ11.Properties.Resources.resources
+C:\D\Faks\IV\CS322\DZ11\DZ11\DZ11\obj\Debug\DZ11.csproj.GenerateResource.cache
+C:\D\Faks\IV\CS322\DZ11\DZ11\DZ11\obj\Debug\DZ11.csproj.CoreCompileInputs.cache
+C:\D\Faks\IV\CS322\DZ11\DZ11\DZ11\obj\Debug\DZ11.exe
+C:\D\Faks\IV\CS322\DZ11\DZ11\DZ11\obj\Debug\DZ11.pdb
