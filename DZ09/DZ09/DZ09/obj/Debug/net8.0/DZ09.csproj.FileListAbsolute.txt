@@ -1,0 +1,15 @@
+C:\D\Faks\IV\CS322\DZ09\DZ09\DZ09\bin\Debug\net8.0\DZ09.exe
+C:\D\Faks\IV\CS322\DZ09\DZ09\DZ09\bin\Debug\net8.0\DZ09.deps.json
+C:\D\Faks\IV\CS322\DZ09\DZ09\DZ09\bin\Debug\net8.0\DZ09.runtimeconfig.json
+C:\D\Faks\IV\CS322\DZ09\DZ09\DZ09\bin\Debug\net8.0\DZ09.dll
+C:\D\Faks\IV\CS322\DZ09\DZ09\DZ09\bin\Debug\net8.0\DZ09.pdb
+C:\D\Faks\IV\CS322\DZ09\DZ09\DZ09\obj\Debug\net8.0\DZ09.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Faks\IV\CS322\DZ09\DZ09\DZ09\obj\Debug\net8.0\DZ09.AssemblyInfoInputs.cache
+C:\D\Faks\IV\CS322\DZ09\DZ09\DZ09\obj\Debug\net8.0\DZ09.AssemblyInfo.cs
+C:\D\Faks\IV\CS322\DZ09\DZ09\DZ09\obj\Debug\net8.0\DZ09.csproj.CoreCompileInputs.cache
+C:\D\Faks\IV\CS322\DZ09\DZ09\DZ09\obj\Debug\net8.0\DZ09.sourcelink.json
+C:\D\Faks\IV\CS322\DZ09\DZ09\DZ09\obj\Debug\net8.0\DZ09.dll
+C:\D\Faks\IV\CS322\DZ09\DZ09\DZ09\obj\Debug\net8.0\refint\DZ09.dll
+C:\D\Faks\IV\CS322\DZ09\DZ09\DZ09\obj\Debug\net8.0\DZ09.pdb
+C:\D\Faks\IV\CS322\DZ09\DZ09\DZ09\obj\Debug\net8.0\DZ09.genruntimeconfig.cache
+C:\D\Faks\IV\CS322\DZ09\DZ09\DZ09\obj\Debug\net8.0\ref\DZ09.dll

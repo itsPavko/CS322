@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\D\\Faks\\IV\\CS322\\DZ09\\DZ09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{429FBB57-3236-4865-B734-8910CD56FCDC}|DZ09\\DZ09.csproj|c:\\d\\faks\\iv\\cs322\\dz09\\dz09\\dz09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429FBB57-3236-4865-B734-8910CD56FCDC}|DZ09\\DZ09.csproj|solutionrelative:dz09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\D\\Faks\\IV\\CS322\\DZ09\\DZ09\\DZ09\\Program.cs",
+              "RelativeDocumentMoniker": "DZ09\\Program.cs",
+              "ToolTip": "C:\\D\\Faks\\IV\\CS322\\DZ09\\DZ09\\DZ09\\Program.cs",
+              "RelativeToolTip": "DZ09\\Program.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAQwEEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:42:48.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
