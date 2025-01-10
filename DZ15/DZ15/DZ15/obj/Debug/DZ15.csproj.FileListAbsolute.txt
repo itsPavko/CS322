@@ -1,0 +1,10 @@
+C:\D\Faks\IV\CS322\DZ15\DZ15\DZ15\bin\Debug\DZ15.exe.config
+C:\D\Faks\IV\CS322\DZ15\DZ15\DZ15\bin\Debug\DZ15.exe
+C:\D\Faks\IV\CS322\DZ15\DZ15\DZ15\bin\Debug\DZ15.pdb
+C:\D\Faks\IV\CS322\DZ15\DZ15\DZ15\obj\Debug\DZ15.csproj.AssemblyReference.cache
+C:\D\Faks\IV\CS322\DZ15\DZ15\DZ15\obj\Debug\DZ15.Form1.resources
+C:\D\Faks\IV\CS322\DZ15\DZ15\DZ15\obj\Debug\DZ15.Properties.Resources.resources
+C:\D\Faks\IV\CS322\DZ15\DZ15\DZ15\obj\Debug\DZ15.csproj.GenerateResource.cache
+C:\D\Faks\IV\CS322\DZ15\DZ15\DZ15\obj\Debug\DZ15.csproj.CoreCompileInputs.cache
+C:\D\Faks\IV\CS322\DZ15\DZ15\DZ15\obj\Debug\DZ15.exe
+C:\D\Faks\IV\CS322\DZ15\DZ15\DZ15\obj\Debug\DZ15.pdb

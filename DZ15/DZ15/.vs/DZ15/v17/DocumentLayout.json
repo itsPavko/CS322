@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\D\\Faks\\IV\\CS322\\DZ15\\DZ15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E75269D5-E8CC-4689-A73E-2E7AFFF4F53E}|DZ15\\DZ15.csproj|c:\\d\\faks\\iv\\cs322\\dz15\\dz15\\dz15\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75269D5-E8CC-4689-A73E-2E7AFFF4F53E}|DZ15\\DZ15.csproj|solutionrelative:dz15\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75269D5-E8CC-4689-A73E-2E7AFFF4F53E}|DZ15\\DZ15.csproj|c:\\d\\faks\\iv\\cs322\\dz15\\dz15\\dz15\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E75269D5-E8CC-4689-A73E-2E7AFFF4F53E}|DZ15\\DZ15.csproj|solutionrelative:dz15\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\D\\Faks\\IV\\CS322\\DZ15\\DZ15\\DZ15\\Form1.cs",
+              "RelativeDocumentMoniker": "DZ15\\Form1.cs",
+              "ToolTip": "C:\\D\\Faks\\IV\\CS322\\DZ15\\DZ15\\DZ15\\Form1.cs",
+              "RelativeToolTip": "DZ15\\Form1.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAkwDAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T17:43:35.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\D\\Faks\\IV\\CS322\\DZ15\\DZ15\\DZ15\\Form1.cs",
+              "RelativeDocumentMoniker": "DZ15\\Form1.cs",
+              "ToolTip": "C:\\D\\Faks\\IV\\CS322\\DZ15\\DZ15\\DZ15\\Form1.cs [Design]",
+              "RelativeToolTip": "DZ15\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T17:38:27.417Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
