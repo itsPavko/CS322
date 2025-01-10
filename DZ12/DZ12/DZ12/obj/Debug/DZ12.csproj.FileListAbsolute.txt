@@ -1,0 +1,14 @@
+C:\D\Faks\IV\CS322\DZ12\DZ12\DZ12\bin\Debug\DZ12.exe.config
+C:\D\Faks\IV\CS322\DZ12\DZ12\DZ12\bin\Debug\DZ12.exe
+C:\D\Faks\IV\CS322\DZ12\DZ12\DZ12\bin\Debug\DZ12.pdb
+C:\D\Faks\IV\CS322\DZ12\DZ12\DZ12\bin\Debug\SQLConnection.dll
+C:\D\Faks\IV\CS322\DZ12\DZ12\DZ12\bin\Debug\System.Data.SqlClient.dll
+C:\D\Faks\IV\CS322\DZ12\DZ12\DZ12\bin\Debug\System.Data.SqlClient.xml
+C:\D\Faks\IV\CS322\DZ12\DZ12\DZ12\obj\Debug\DZ12.csproj.AssemblyReference.cache
+C:\D\Faks\IV\CS322\DZ12\DZ12\DZ12\obj\Debug\DZ12.Form1.resources
+C:\D\Faks\IV\CS322\DZ12\DZ12\DZ12\obj\Debug\DZ12.Properties.Resources.resources
+C:\D\Faks\IV\CS322\DZ12\DZ12\DZ12\obj\Debug\DZ12.csproj.GenerateResource.cache
+C:\D\Faks\IV\CS322\DZ12\DZ12\DZ12\obj\Debug\DZ12.csproj.CoreCompileInputs.cache
+C:\D\Faks\IV\CS322\DZ12\DZ12\DZ12\obj\Debug\DZ12.csproj.Up2Date
+C:\D\Faks\IV\CS322\DZ12\DZ12\DZ12\obj\Debug\DZ12.exe
+C:\D\Faks\IV\CS322\DZ12\DZ12\DZ12\obj\Debug\DZ12.pdb
